@@ -12,4 +12,9 @@ public class GitTest{
 		return name;
 		}
 
+
+	public void setString(String s){
+		this.name = s;
+		}
+
 }
