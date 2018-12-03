@@ -6,4 +6,8 @@ public class GitTest{
 		this.name = "This is my GitHub test";
 		}
 
+	public String toString(){
+		return name;
+		}
+
 }
